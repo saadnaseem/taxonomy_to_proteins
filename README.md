@@ -1,4 +1,4 @@
-![Alt text](taxonomy%to%proteins.png)
+![Alt text](taxonomy_to_proteins.png)
 
 # UniProt / NCBI Retrieval Toolkit
 
