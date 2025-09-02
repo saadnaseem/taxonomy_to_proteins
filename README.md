@@ -1,4 +1,5 @@
-![Alt text](taxonomy to proteins.png)
+![Alt text](taxonomy%to%proteins.png)
+
 # UniProt / NCBI Retrieval Toolkit
 
 This mini-toolkit lets you download protein or gene information for a given organism (taxonomy ID) from two major biological databases.
